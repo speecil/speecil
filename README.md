@@ -19,6 +19,6 @@ I'm a fresh developer learning languages such as Python, C++ and C#. My two main
 
 ### Stats
 
-<img ![Rileys GitHub stats](https://github-readme-stats.vercel.app/api?username=speecil&show_icons=true&theme=radical)
+![Rileys GitHub stats](https://github-readme-stats.vercel.app/api?username=speecil&show_icons=true&theme=radical)
 
 #
