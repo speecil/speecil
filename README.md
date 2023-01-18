@@ -19,6 +19,7 @@ I'm a fresh developer learning languages such as Python, C++ and C#. My two main
 
 ### Stats
 
-![Rileys GitHub Stats](https://github-readme-stats.vercel.app/api?username=speecil&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/?username=speecil&layout=compact&show_icons=true&include_all_commits=true&bg_color=20,0d1117,0d1117,21262d,0d1117&title_color=fff&text_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=speecil&layout=compact&bg_color=20,0d1117,0d1117,21262d,0d1117&title_color=fff&text_color=fff" />
 
 #
