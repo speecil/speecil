@@ -1,4 +1,5 @@
-# Riley AKA Speecil
+# Riley AKA Speecil 
+![](https://komarev.com/ghpvc/?username=speecil)
 
 I'm a fresh developer learning languages such as Python, C++ and C#. My two main projects are [SpeecilTweaks](https://github.com/speecil/SpeecilTweaks-BSML) and [PauseRemapper](https://github.com/speecil/PauseRemapper) which are mods for the game, [Beat Saber](https://beatsaber.com/).
 
