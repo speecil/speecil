@@ -1,8 +1,6 @@
 # Riley AKA Speecil 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=speecil" alt="Profile Views Counter">
-</p>
+<img src="https://komarev.com/ghpvc/?username=speecil" alt="Profile Views Counter">
 
 Greetings! I'm Riley, also known as Speecil. I'm an aspiring developer currently learning programming languages such as Python, C++, and C#. My passion for programming has led me to work on various projects, and I'm thrilled to share them with you.
 
@@ -18,8 +16,13 @@ Here are some of my primary projects:
 
 I have experience with the following programming languages:
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="50px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="50px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="50px" height="50px" />
+</p>
+
+#
+<p align="center">
+  <img src="https://raw.githubusercontent.com/speecil/speecil/main/speecil.gif" alt="Speecil" width="475px" height="225px" />
 </p>
