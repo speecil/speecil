@@ -25,5 +25,5 @@ I have experience with the following programming languages:
 
 #
 <p align="center">
-  <img src="https://raw.githubusercontent.com/speecil/speecil/main/speecil.gif" alt="Speecil" width="475px" height="225px" />
+  <img src="https://raw.githubusercontent.com/speecil/speecil/main/speecilcropped.gif" alt="Speecil" width="275px" height="225px" />
 </p>
