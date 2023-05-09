@@ -1,25 +1,25 @@
 # Riley AKA Speecil 
-![](https://komarev.com/ghpvc/?username=speecil)
 
-I'm a fresh developer learning languages such as Python, C++ and C#. My three main projects are [Local Leaderboard](https://github.com/speecil/LocalLeaderboard-Project), [SpeecilTweaks](https://github.com/speecil/SpeecilTweaks-BSML) and [PauseRemapper](https://github.com/speecil/PauseRemapper) which are mods for the game, [Beat Saber](https://beatsaber.com/).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=speecil" alt="Profile Views Counter">
+</p>
 
----
+Greetings! I'm Riley, also known as Speecil. I'm an aspiring developer currently learning programming languages such as Python, C++, and C#. My passion for programming has led me to work on various projects, and I'm thrilled to share them with you.
 
-### Languages I Know
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+## Projects
 
-<br/>
+Here are some of my primary projects:
 
-### Languages I Somewhat Understand
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
+- [LocalLeaderboard](https://github.com/speecil/LocalLeaderboard-Project) - A mod for Beat Saber that adds a local leaderboard to the game.
+- [SpeecilTweaks](https://github.com/speecil/SpeecilTweaks-BSML) - A collection of mods for Beat Saber that improve gameplay experience.
+- [PauseRemapper](https://github.com/speecil/PauseRemapper) - A Beat Saber mod that allows you to pause the game using your virtual controllers.
 
-<br />
+## Skills
 
-#
+I have experience with the following programming languages:
 
-### Stats
-
-![Rileys GitHub stats](https://github-readme-stats.vercel.app/api?username=speecil&show_icons=true&theme=radical)
-
-#
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="50px" height="50px" />
+</p>
