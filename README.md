@@ -8,9 +8,9 @@ Hello, I'm an aspiring developer currently programming in various languages such
 
 Here are some of my primary projects:
 
-- [LocalLeaderboard](https://github.com/speecil/LocalLeaderboard-PC) - A mod for Beat Saber that adds a local leaderboard to the game.
+- [LocalLeaderboard](https://github.com/speecil/LocalLeaderboard-PC) - A mod for Beat Saber that adds a local leaderboard which tracks performace to the game.
 - [SpeecilTweaks](https://github.com/speecil/SpeecilTweaks-BSML) - A collection of mods for Beat Saber that improve gameplay experience.
-- [PauseRemapper](https://github.com/speecil/PauseRemapper) - A Beat Saber mod that allows you to pause the game using your virtual controllers.
+- [PauseRemapper](https://github.com/speecil/PauseRemapper) - A Beat Saber mod that allows you to pause the game using any button on your controllers.
 
 ## Skills
 
