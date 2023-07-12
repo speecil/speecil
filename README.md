@@ -23,6 +23,6 @@ I have experience with the following programming languages:
 </p>
 
 #
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/speecil/speecil/main/speecilcropped.gif" alt="Speecil" width="275px" height="200px" />
 </p>
