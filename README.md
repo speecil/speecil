@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&vCenter=true&width=675&height=65&lines=Hey+there%2C+im+Speecil!;Also+known+as+Riley)]
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&vCenter=true&width=675&height=65&lines=Hey+there%2C+im+Speecil!;Also+known+as+Riley)
 
 <img src="https://komarev.com/ghpvc/?username=speecil" alt="Profile Views Counter">
 
