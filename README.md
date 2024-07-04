@@ -22,7 +22,3 @@ I have experience with the following programming languages:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="50px" height="50px" />
 </p>
 
-#
-<p align="left">
-  <img src="https://raw.githubusercontent.com/speecil/speecil/main/speecilcropped.gif" alt="Speecil" width="275px" height="200px" />
-</p>
