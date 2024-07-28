@@ -2,23 +2,29 @@
 
 <img src="https://komarev.com/ghpvc/?username=speecil" alt="Profile Views Counter">
 
-Hello, I'm an aspiring developer currently programming in various languages such as Python, C++, and C#. My passion for programming has led me to work on various projects, and my favourite are listed below.
+Hello, I'm an aspiring developer currently programming in various languages such as C++, C#, Python and many others.
+
+I mainly program Beat Saber mods for pc and quest.
 
 ## Projects
 
 Here are some of my primary projects:
 
 - [LocalLeaderboard](https://github.com/speecil/LocalLeaderboard-PC) - A mod for Beat Saber that adds a local leaderboard which tracks your plays on every map, replay included.
-- [SpeecilTweaks](https://github.com/speecil/SpeecilTweaks-BSML) - A collection of mods for Beat Saber that improve gameplay experience.
-- [PauseRemapper](https://github.com/speecil/PauseRemapper) - A Beat Saber mod that allows you to pause the game using any button on your controllers.
+- [BloqParty PC Client](https://github.com/BloqParty/BloqParty-PC) - A leaderboard mod for Beat Saber pc for the Bloq Party community
+- And an unreleased project you will see shortly....
+
+Here are some projects ive contributed to significantly
+
+- [ScoreSaber PC](https://github.com/ScoreSaber/scoresaber-plugin) - The largest beat saber custom song leaderboard service / ranking service
 
 ## Skills
 
 I have experience with the following programming languages:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="50px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="50px" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="50px" height="50px" />
 </p>
 
