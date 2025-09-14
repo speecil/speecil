@@ -4,14 +4,14 @@
 
 Hello, I'm an aspiring developer currently programming in various languages such as C++, C#, Python and many others.
 
-I mainly program Beat Saber mods for pc and quest.
+I mainly program Beat Saber mods for PC and Quest.
 
 ## Projects
 
 Here are some of my primary projects:
 
-- [LocalLeaderboard](https://github.com/speecil/LocalLeaderboard-PC) - A mod for Beat Saber that adds a local leaderboard which tracks your plays on every map, replay included.
-- [BloqParty PC Client](https://github.com/BloqParty/BloqParty-PC) - A leaderboard mod for Beat Saber pc for the Bloq Party community
+- [LocalLeaderboard](https://github.com/speecil/LocalLeaderboard-PC) - A mod for Beat Saber that adds a local leaderboard which tracks your plays on every map - replay included.
+- [BloqParty PC Client](https://github.com/BloqParty/BloqParty-PC) - A leaderboard mod for the PC version of Beat Saber for the Bloq Party community.
 - And an unreleased project you will see shortly....
 
 Here are some projects ive contributed to significantly
