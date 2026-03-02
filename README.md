@@ -1,8 +1,6 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&vCenter=true&width=675&height=65&lines=Hey+there%2C+im+Speecil!;Also+known+as+Riley)
-
 <img src="https://komarev.com/ghpvc/?username=speecil" alt="Profile Views Counter">
 
-Hello, I'm an aspiring developer currently programming in various languages such as C++, C#, Python and many others.
+Hello, I'm a developer currently programming in various languages such as C++, C#, and many others.
 
 I mainly program Beat Saber mods for pc and quest.
 
@@ -11,8 +9,6 @@ I mainly program Beat Saber mods for pc and quest.
 Here are some of my primary projects:
 
 - [LocalLeaderboard](https://github.com/speecil/LocalLeaderboard-PC) - A mod for Beat Saber that adds a local leaderboard which tracks your plays on every map, replay included.
-- [BloqParty PC Client](https://github.com/BloqParty/BloqParty-PC) - A leaderboard mod for Beat Saber pc for the Bloq Party community
-- And an unreleased project you will see shortly....
 
 Here are some projects ive contributed to significantly
 
